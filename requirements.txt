@@ -1,0 +1,11 @@
+torch==2.0.1
+accelerate
+bitsandbytes
+datasets
+scikit-learn
+tokenizers
+transformers
+adlfs
+jsonnet
+tabulate
+merge-tokenizers
